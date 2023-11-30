@@ -1,1 +1,1 @@
-Please see [https://geofeed.as199868.net/subnet.csv](https://geofeed.as199868.net/subnet.csv) for geofeed information
+Please see [https://geo.nodowntime.net/subnet.csv](https://geo.nodowntime.net/subnet.csv) for geofeed information
