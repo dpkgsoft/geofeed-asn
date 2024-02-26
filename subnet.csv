@@ -1,6 +1,6 @@
 # prefix,country_code,region_code,city,postal
 193.233.74.0/24,FI,FI-18,Helsinki,00100
-193.233.75.0/24,RU,,,
+193.233.75.0/24,DE,DE-HE,Frankfurt,60313
 193.233.80.0/24,DE,DE-HE,Frankfurt,60313
 193.233.164.0/24,DE,DE-HE,Frankfurt,60313
 
